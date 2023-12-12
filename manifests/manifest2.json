@@ -1,0 +1,87 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://asaundry.github.io/iiif-workshop/manifests/manifest2.json",
+  "@type" : "sc:Manifest",
+  "label" : "Amber's Vancouver Test Canvas",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "A collection of photos taken by Amber Saundry in downtown Vancouver",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "attribution" : "Copyright Amber Saundry, released as Creative Commons Attribution-NonCommercial-NoDerivs 4.0 International",
+  "sequences" : [ {
+    "@id" : "http://3b25592b-82ea-4abb-8cdb-7212bcac54e1",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "viewingHint" : "paged",
+    "canvases" : [ {
+      "@id" : "http://cc253f63-c274-4f98-b104-84ac3adf29e8",
+      "@type" : "sc:Canvas",
+      "label" : "Vancouver Convention Centre",
+      "height" : 3000,
+      "width" : 4000,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://71584728-80d5-4638-8c8d-23478b0de8fb",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/20231116-091544_202312/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/20231116-091544_202312",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 3000,
+          "width" : 4000
+        },
+        "on" : "http://cc253f63-c274-4f98-b104-84ac3adf29e8"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://f56f7037-710c-41ee-8eff-419ecace34d0",
+      "@type" : "sc:Canvas",
+      "label" : "Vancouver Waterfront decorations",
+      "height" : 3000,
+      "width" : 4000,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://7aa2eb7d-515d-4f01-9f3f-ac1357366981",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/20231208-145323/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/20231208-145323",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 3000,
+          "width" : 4000
+        },
+        "on" : "http://f56f7037-710c-41ee-8eff-419ecace34d0"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ {
+    "@id" : "http://example.org/iiif/book1/range/top",
+    "@type" : "sc:Range",
+    "label" : "Table of Content",
+    "viewingHint" : "top",
+    "ranges" : [ "http://example.org/iiif/book1/range/intro" ]
+  }, {
+    "@id" : "http://example.org/iiif/book1/range/intro",
+    "@type" : "sc:Range",
+    "label" : "Introduction",
+    "canvases" : [ "http://cc253f63-c274-4f98-b104-84ac3adf29e8" ]
+  } ]
+}
