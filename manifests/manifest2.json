@@ -2,7 +2,7 @@
   "@context" : "http://iiif.io/api/presentation/2/context.json",
   "@id" : "https://asaundry.github.io/iiif-workshop/manifests/manifest2.json",
   "@type" : "sc:Manifest",
-  "label" : "Amber's Vancouver Test Canvas",
+  "label" : "Amber's Vancouver Test Project",
   "metadata" : [ ],
   "description" : [ {
     "@value" : "A collection of photos taken by Amber Saundry in downtown Vancouver",
