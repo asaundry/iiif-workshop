@@ -3,6 +3,11 @@
   "@id" : "https://asaundry.github.io/iiif-workshop/manifests/manifest2.json",
   "@type" : "sc:Manifest",
   "label" : "Amber's Vancouver Test Project",
+  "service" : {
+    "profile" : "http://iiif.io/api/search/0/search",
+    "@id" : "https://dev.gdmrdigital.com/search-api/1245635613/65799402/b2776c25df1555acacd870e4b239c883/search",
+    "@context" : "http://iiif.io/api/search/0/context.json"
+  },
   "metadata" : [ ],
   "description" : [ {
     "@value" : "A collection of photos taken by Amber Saundry in downtown Vancouver",
@@ -43,6 +48,11 @@
         },
         "on" : "http://cc253f63-c274-4f98-b104-84ac3adf29e8"
       } ],
+      "otherContent" : [ {
+        "@id" : "https://asaundry.github.io/iiif-workshop/annotations/CCAnnotations.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
+      } ],
       "related" : ""
     }, {
       "@id" : "http://f56f7037-710c-41ee-8eff-419ecace34d0",
@@ -68,6 +78,11 @@
           "width" : 4000
         },
         "on" : "http://f56f7037-710c-41ee-8eff-419ecace34d0"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://asaundry.github.io/iiif-workshop/annotations/BearAnnotations.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
       } ],
       "related" : ""
     } ]
