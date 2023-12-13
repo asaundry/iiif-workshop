@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://asaundry.github.io/iiif-workshop/annotations/725add0384443357bae4a576a6fb088e.json", "https://asaundry.github.io/iiif-workshop/annotations/bd6f3b07a2f89f3bf953959ad55794c1.json" ],
+  "otherContent" : [ "https://asaundry.github.io/iiif-workshop/annotations/bd6f3b07a2f89f3bf953959ad55794c1.json" ],
   "@id" : "https://asaundry.github.io/iiif-workshop/annotations/collection.json",
   "label" : "All annotations loaded in asaundry/iiif-workshop project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
