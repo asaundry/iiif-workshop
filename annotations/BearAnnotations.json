@@ -1,0 +1,39 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Bear decorations",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Bear decorations</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/65799402",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-12-13T21:40:30",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1702503630291",
+    "dcterms:modified" : "2023-12-13T21:40:30",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://asaundry.github.io/iiif-workshop/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1757,884,1670,1594"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1757.35829,884.36364h835.2246v0h835.2246v797.12299v797.12299h-835.2246h-835.2246v-797.12299z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_d102226b-639b-45d9-b3c8-2178ecc42527\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://f56f7037-710c-41ee-8eff-419ecace34d0"
+    } ]
+  } ],
+  "@id" : "https://asaundry.github.io/iiif-workshop/annotations/BearAnnotations.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
