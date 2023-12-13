@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://asaundry.github.io/iiif-workshop/annotations/BearAnnotations.json" ],
+  "otherContent" : [ "https://asaundry.github.io/iiif-workshop/annotations/BearAnnotations.json", "https://asaundry.github.io/iiif-workshop/annotations/CCAnnotations.json" ],
   "@id" : "https://asaundry.github.io/iiif-workshop/annotations/collection.json",
   "label" : "All annotations loaded in asaundry/iiif-workshop project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
