@@ -1,0 +1,209 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<a href=\"https://dx.doi.org/10.14288/1.0133213\" target=\"_blank\" rel=\"noopener\">District of Burnaby : Subdivision and Land Use",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><a href=\"https://dx.doi.org/10.14288/1.0133213\" target=\"_blank\" rel=\"noopener\">District of Burnaby : Subdivision and Land Use</a></p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "District",
+      "@type" : "oa:Tag",
+      "chars" : "District"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/65799402",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2023-12-15T21:13:37",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1702674817170",
+    "dcterms:modified" : "2023-12-15T21:18:10",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://iiif.library.ubc.ca/presentation/cdm.gvrdmaps.1-0135075/manifest"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1965,1827,147,143"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1965.20304,1827.16504h73.35606v0h73.35606v71.59128v71.59128h-73.35606h-73.35606v-71.59128z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_6bea652d-2547-4a49-95ad-723464a9a96e\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"5.45455\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://iiif.library.ubc.ca/presentation/cdm.gvrdmaps.1-0135075/canvas/p0"
+    }, {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://iiif.library.ubc.ca/presentation/cdm.gvrdmaps.1-0135075/manifest"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2321,1739,2,2"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2320.54598,1738.82603h1v0h1v1v1h-1h-1v-1z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;newlyCreatedStrokeFactor&quot;:5,&quot;newlyCreated&quot;:true,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_e57547f6-bedc-40f1-9dae-6617f7f82088\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"5\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://iiif.library.ubc.ca/presentation/cdm.gvrdmaps.1-0135075/canvas/p0"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<a href=\"https://dx.doi.org/10.14288/1.0133615\" target=\"_blank\" rel=\"noopener\">Township of Richmond : Subdivision and Land Use",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><a href=\"https://dx.doi.org/10.14288/1.0133615\" target=\"_blank\" rel=\"noopener\">Township of Richmond : Subdivision and Land Use</a></p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Township",
+      "@type" : "oa:Tag",
+      "chars" : "Township"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/65799402",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2023-12-15T21:16:04",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1702674964923",
+    "dcterms:modified" : "2023-12-15T21:16:38",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://iiif.library.ubc.ca/presentation/cdm.gvrdmaps.1-0135075/manifest"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1247,2387,147,151"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1246.63527,2386.74805h73.576v0h73.576v75.46109v75.46109h-73.576h-73.576v-75.46109z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_d2d00eba-1022-402b-a317-f4a631cc1115\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"11.31055\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://iiif.library.ubc.ca/presentation/cdm.gvrdmaps.1-0135075/canvas/p0"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<a href=\"https://dx.doi.org/10.14288/1.0133967\" target=\"_blank\" rel=\"noopener\">District of West Vancouver : Subdivision and Land Use",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><a href=\"https://dx.doi.org/10.14288/1.0133967\" target=\"_blank\" rel=\"noopener\">District of West Vancouver : Subdivision and Land Use</a></p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "District",
+      "@type" : "oa:Tag",
+      "chars" : "District"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/65799402",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2023-12-15T21:12:57",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1702674777328",
+    "dcterms:modified" : "2023-12-15T21:17:49",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://iiif.library.ubc.ca/presentation/cdm.gvrdmaps.1-0135075/manifest"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1087,992,136,127"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1087.04738,992.42319h68.06171v0h68.06171v63.64976v63.64976h-68.06171h-68.06171v-63.64976z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_f3a68b79-7bb4-487b-9529-446a75ed262e\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"9.77231\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://iiif.library.ubc.ca/presentation/cdm.gvrdmaps.1-0135075/canvas/p0"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<a href=\"https://dx.doi.org/10.14288/1.0133292\" target=\"_blank\" rel=\"noopener\">District of Coquitlam : Subdivision and Land Use",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><a href=\"https://dx.doi.org/10.14288/1.0133292\" target=\"_blank\" rel=\"noopener\">District of Coquitlam : Subdivision and Land Use</a></p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "District",
+      "@type" : "oa:Tag",
+      "chars" : "District"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/65799402",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2023-12-15T21:15:24",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1702674924206",
+    "dcterms:modified" : "2023-12-15T21:19:25",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://iiif.library.ubc.ca/presentation/cdm.gvrdmaps.1-0135075/manifest"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2801,1843,153,156"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2801.19635,1846.59595l148.92218,-3.77018l3.77018,143.26691l-71.63345,13.19564l-77.28873,-43.35709z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"rough_path_94f312bc-4a15-4bc5-bd4d-0c841228196a\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"13.57265\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://iiif.library.ubc.ca/presentation/cdm.gvrdmaps.1-0135075/canvas/p0"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Village",
+      "@type" : "oa:Tag",
+      "chars" : "Village"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "<a href=\"https://dx.doi.org/10.14288/1.0133289\" target=\"_blank\" rel=\"noopener\">Village of Hope and Unorganized Area : Subdivision and Land Use",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><a href=\"https://dx.doi.org/10.14288/1.0133289\" target=\"_blank\" rel=\"noopener\">Village of Hope and Unorganized Area : Subdivision and Land Use</a></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/65799402",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2023-12-15T21:20:17",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1702675217488",
+    "dcterms:modified" : "2023-12-15T21:20:17",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://iiif.library.ubc.ca/presentation/cdm.gvrdmaps.1-0135075/manifest"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=10084,453,158,154"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M10084.21327,453.01198h79.17849v0h79.17849v77.22403v77.22403h-79.17849h-79.17849v-77.22403z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_55278523-9d3e-4b65-a20c-78c0c3289d96\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://iiif.library.ubc.ca/presentation/cdm.gvrdmaps.1-0135075/canvas/p0"
+    } ]
+  } ],
+  "@id" : "https://asaundry.github.io/iiif-workshop/annotations/manifest-annotated.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
